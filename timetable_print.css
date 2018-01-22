@@ -90,12 +90,12 @@
 
     table {
         -webkit-print-color-adjust: exact; /*Chrome, Safari */
-        margin-bottom: 180px;
-        width: 750px !important;
+        margin-bottom: 50px;
+        width: 720px !important;
     }
 
-    .c-data {
-        margin-bottom: 20px;
+    #c-data {
+        margin-top: 200px;
     }
 
     @page {
