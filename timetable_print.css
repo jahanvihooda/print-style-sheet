@@ -60,7 +60,7 @@
         display: none;
     }
 
-    .york-global-footer-links {
+    .global-footer-links {
         display: none;
     }
 
@@ -71,6 +71,7 @@
     #masthead {
         display: none;
     }
+    
     footer, p {
         display: none;
     }
@@ -89,7 +90,7 @@
     }
 
     table {
-        -webkit-print-color-adjust: exact; /*Chrome, Safari */
+        -webkit-print-color-adjust: exact; /*Chrome, Safari fix */
         margin-bottom: 50px;
         width: 720px !important;
     }
